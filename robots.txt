@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wmahmoud2842006-lang.github.io/ZO.GAMES/sitemap.xml
